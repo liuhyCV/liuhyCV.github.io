@@ -1,0 +1,25 @@
+title: Liu Huanyu
+url: "https://liuhuanyu.cn"
+baseurl: "/liuhyCV.github.io"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+remote_theme: ankitsultana/researcher@gem
+
+tracking_id: #
+
+#footer: yes
+#footer_url: "https://github.com/ankitsultana"
+#footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Blog"
+   link: "blog"
+ - name: "Contact"
+   link: "contact"
+ - name: "About(Chinese)"
+   link: "about_chinese"
