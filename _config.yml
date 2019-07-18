@@ -7,7 +7,7 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 remote_theme: ankitsultana/researcher@gem
 
-tracking_id: #
+tracking_id: UA-144113550-1
 
 #footer: yes
 #footer_url: "https://github.com/ankitsultana"
