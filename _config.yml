@@ -18,8 +18,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "about_chinese"
+ - name: "About_English"
+   link: "about_english"
  - name: "Blog"
    link: "blog"
  - name: "Contact"
