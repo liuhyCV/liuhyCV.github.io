@@ -18,9 +18,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "About"
+   link: "about_chinese"
  - name: "Blog"
    link: "blog"
  - name: "Contact"
    link: "contact"
- - name: "About(Chinese)"
-   link: "about_chinese"

@@ -1,6 +1,4 @@
 ---
-layout: default
-is_blog: true
+layout: frontpage
 ---
 
-This page has not being update yet.
