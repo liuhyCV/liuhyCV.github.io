@@ -6,16 +6,18 @@ layout: default
 
 <img class="profile-picture" src="portfolio_1.jpg">
  
-Hi! 我目前在[MEGVII(Face++)](https://www.megvii.com)北京研究院担任视觉算法研究员。
+Hi! 我目前在 [Momenta](https://www.momenta.cn/) MSD 部门担任感知高级算法工程师，主要负责 L4 自动驾驶激光雷达感知算法的研发。曾于 2019 年 [MEGVII(Face++)](https://www.megvii.com)北京研究院担任视觉算法研究员。
 
 
 ## 研究方向
-我的研究兴趣包括计算机视觉和深度学习，尤其是视觉场景感知领域，如物体检测、物体跟踪、场景语义分割与全景分割。
+我的研究兴趣包括计算机视觉和深度学习，尤其是视觉场景感知领域，如 2D&3D 物体检测、物体跟踪、场景语义分割与全景分割。
 
 
 ## 最新进展
 
-[2019/03] 我的论文 OANet 被计算机视觉顶会 **CVPR2019** 接受。
+[2020/03] 我们的工作 HOReID 被计算机视觉顶会 **CVPR2020** 接收。
+
+[2019/03] 我们的工作 OANet 被计算机视觉顶会 **CVPR2019** 接收。
 
 [2018/09] 作为 Megvii(Face++)-R4D Team 团队成员之一，我们赢得了国际权威比赛 2018 COCO Panoptic Segmentation and Mapillary Panoptic Segmentation **1st place** 的成绩。
 
@@ -29,6 +31,11 @@ Hi! 我目前在[MEGVII(Face++)](https://www.megvii.com)北京研究院担任视
 
 ## 学术成果
 
+[High-order information matters: Learning relation and topology for occluded person re-identification](https://arxiv.org/abs/2003.08177). <br>
+Computer Vision and Pattern Recognition (CVPR), 2020 <br>
+Guan'an Wang, Shuo Yang, **Huanyu Liu**, Zhicheng Wang, Yang Yang, Shuliang Wang, Gang Yu, Erjin Zhou, Jian Sun
+
+
 [An End-to-End Network for Panoptic Segmentation](https://arxiv.org/abs/1903.05027). <br>
 Computer Vision and Pattern Recognition (CVPR), 2019 <br>
 **Huanyu Liu**, Chao Peng, Changqian Yu, Jingbo Wang, Xu Liu, Gang Yu, Wei Jiang 
@@ -36,7 +43,9 @@ Computer Vision and Pattern Recognition (CVPR), 2019 <br>
 
 ## 经历 & 活动
 
-**算法研究员**, 旷视科技北京研究院检测组. 2019-04 ~ 现在
+**高级算法工程师**, Momenta 北京研发中心. 2019-10 ~ 至今
+
+**算法研究员**, 旷视科技北京研究院检测组. 2019-04 ~ 2019-10
 
 **算法实习生**, 旷视科技北京研究院检测组. 2018-06 ~ 2019-04
 
@@ -50,5 +59,4 @@ Computer Vision and Pattern Recognition (CVPR), 2019 <br>
 
 **开发实习生**, 巨迪科技机器人业务部. 2016-06 ~ 2016-09
 
-**本科生**, 浙江大学控制科学与工程学院. 2012-09 ~ 2016-06
-
+**本科**, 浙江大学控制科学与工程学院. 2012-09 ~ 2016-06
