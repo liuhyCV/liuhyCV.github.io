@@ -17,12 +17,16 @@ Hi! 我目前在 [Momenta](https://www.momenta.cn/) MSD 部门担任感知高级
 
 [2020/03] 我们的工作 HOReID 被计算机视觉顶会 **CVPR2020** 接收。
 
+[2019/10] 作为队长，我们赢得了国际权威比赛 2019 COCO Panoptic Segmentation **1st place** 的成绩。
+
 [2019/03] 我们的工作 OANet 被计算机视觉顶会 **CVPR2019** 接收。
 
 [2018/09] 作为 Megvii(Face++)-R4D Team 团队成员之一，我们赢得了国际权威比赛 2018 COCO Panoptic Segmentation and Mapillary Panoptic Segmentation **1st place** 的成绩。
 
 
 ## 竞赛 & 项目
+
+[No.1 of COCO 2019 Challenge in Panoptic Segmentation Track 2019](https://cocodataset.org/#panoptic-leaderboard)
 
 [No.1 of COCO 2018 Challenge in Panoptic Segmentation Track 2018](http://cocodataset.org/workshop/coco-mapillary-eccv-2018.html)
 

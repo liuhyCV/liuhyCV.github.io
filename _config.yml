@@ -17,10 +17,10 @@ sass:
     style: compressed
     sass_dir: _sass
 
-# nav:
-#  - name: "About_English"
-#    link: "about_english"
-#  - name: "Blog"
-#    link: "blog"
-#  - name: "Contact"
-#    link: "contact"
+nav:
+ - name: "About"
+   link: "index"
+ - name: "Blog"
+   link: "blog"
+ - name: "Contact"
+   link: "contact"
